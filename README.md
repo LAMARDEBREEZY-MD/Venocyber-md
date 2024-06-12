@@ -220,4 +220,4 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### UPDATE
-SUPPORT NUMBERS ARE CHANGED DUE TO UNEXPECTED ISSUES HERE ARE THE NEW [NUMBERS](https://wa.me/255769384757?text=hello%20bro%20i%20saved%20your%20number%20save%20mine%20too%20i'm) 
+SUPPORT NUMBERS ARE CHANGED DUE TO UNEXPECTED ISSUES HERE ARE THE NEW WHATSAPP [NUMBER](https://wa.me/255769384757?text=hello%20bro%20i%20saved%20your%20number%20save%20mine%20too%20i'm) 
