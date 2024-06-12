@@ -25,7 +25,7 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+255769384757?text=Hello+Bro--+I+Need+Help.+I+messaged+you+from+Venocyber-md+Repo" target="_blank">
+  <a href="https://wa.me/+255769384757?text=Hello+Bro--+I+Need+Help.+I+messaged+you+from+*LAMAR+DE+BREEZY-MD+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
   <a aria-label="Venocyber-md is free to use" href="https://github.com/Kingjux/lamardebreezy-md" target="_blank">
