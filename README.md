@@ -110,7 +110,7 @@ if scan qr is not working please try using pairing code i am currently working o
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
-4.  ***Click [`FORK`](https://github.com/Kingjux/Venocyber-md/fork) and `Star ⭐ Repository` for Courage.***
+4.  ***Click [`FORK`](https://github.com/LAMARDEBREEZY-MD/Venocyber-md/fork) and `Star ⭐ Repository` for Courage.***
 5.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 6.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
 7.  ***Deploy on [`HEROKU`](https://deploy-venocyber.vercel.app/)***
@@ -183,7 +183,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <p align="left">
 <a href="https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img align="center" src="https://telegra.ph/file/991e14c61b17a26c99da4.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+venocyber+md;🙏;🙏+✍🏾;🥰)](https://github.com/Kingjux)
+[![LAMAR DE BREEZY TECH](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+Lamardebreezy+md;🙏;🙏+✍🏾;🥰)](https://github.com/Kingjux)
 
 <h1>💗</h1> 
 <b>Thanks For</b> -
@@ -206,11 +206,11 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+venocyber;Admin🥰)](https://github.com/Kingjux)
+[![LAMAR DE BREEZY TECH](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+Lamardebreezy;Admin🥰)](https://github.com/Kingjux)
 
 <p align="center">
   <a href="https://github.com/Kingjux/Venocyber-md">
-    <img alt="venocyber docs" height="300" src="https://telegra.ph/file/8197615d8b2f4b16899ad.jpg">
+    <img alt="Lamardebreezy docs" height="300" src="https://telegra.ph/file/8197615d8b2f4b16899ad.jpg">
   </a>
 </p>
     
